@@ -1,5 +1,5 @@
 import { makeExecutableSchema } from 'graphql-tools';
-import { fileLoader, mergeResolvers, mergeTypes } from 'merge-graphql-schemas';
+import { fileLoader, mergeTypes, mergeResolvers } from 'merge-graphql-schemas';
 import path from 'path';
 
 // **은 모든 폴더, *.graphql은 모든 .graphql 파일
