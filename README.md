@@ -26,7 +26,7 @@ MATA Portfolio with `Express` + `Prisma` + `React` and `React Native`
     - [ ] 팔로우, 언팔로우
     - [ ] 사진 확대
     - [ ] 프로필 수정
-    - [V] 회원가입
+    - [x] 회원가입
     - [ ] Passport
     - [ ] 업로드
     - [ ] 사진 편집
