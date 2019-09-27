@@ -17,6 +17,8 @@ MATA Portfolio with `Express` + `Prisma` + `React` and `React Native`
 
 1.  GraphQL API 일정 세우기
 
+    - [x] 회원가입
+    - [ ] 시크릿넘버 요청
     - [ ] 로그인(비밀번호는 시크릿넘버를 이메일 전송으로 인증)
     - [ ] 좋아요, 취소
     - [ ] 댓글
@@ -26,7 +28,6 @@ MATA Portfolio with `Express` + `Prisma` + `React` and `React Native`
     - [ ] 팔로우, 언팔로우
     - [ ] 사진 확대
     - [ ] 프로필 수정
-    - [x] 회원가입
     - [ ] Passport
     - [ ] 업로드
     - [ ] 사진 편집
