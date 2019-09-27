@@ -33,3 +33,7 @@ MATA Portfolio with `Express` + `Prisma` + `React` and `React Native`
     - [ ] 사진 편집
     - [ ] 사진 삭제
     - [ ] 피드
+
+2.  secret key를 email로 전송하는 방법으로 비밀번호를 대체(nodemailer 사용)
+
+3.  passportjs(passport-jwt) 도입하여 사용자 인증 토큰 구축(~ing)

@@ -11,7 +11,9 @@ const jwtOptions = {
 }
 
 const verifyUser = (payload, done) => {
-
+    try{
+        
+    }
 }
 
 passport.use(new JwtStrategy(jwtOptions, verifyUser))
